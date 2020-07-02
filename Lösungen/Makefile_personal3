@@ -1,0 +1,2 @@
+./aufteilung /main -m -a 40 < Mitarbeiter.csv p1.csv 2 p2.csv 3
+./aufteilung /main -b leer
